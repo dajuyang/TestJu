@@ -1,7 +1,8 @@
 
 public class newTestJ implements comm{
     public static void main(String[] args) {
-        System.out.println("git生成");
+
+        mb a = new mb("aa",3);
     }
 
 
